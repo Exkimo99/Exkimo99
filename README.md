@@ -1,7 +1,8 @@
+![](https://github.com/Exkimo99/Exkimo99/blob/main/cover.jpg)
 👋 Hi there!
 -
-, I'm Dzaly,  a Data Enthusiast from Makassar, Indonesia.
-![Screenshot](screenshot.png)
+I'm Dzaly,  a Data Enthusiast from Makassar, Indonesia.
+
 **✨ About Me in 30 secs✨**
 - Im Bachelor of Information System who loves data
 - Taught my self SQL, Python and Power BI
