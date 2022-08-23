@@ -1,7 +1,7 @@
 👋 Hi there!
 -
 , I'm Dzaly,  a Data Enthusiast from Makassar, Indonesia.
-
+![Screenshot](screenshot.png)
 **✨ About Me in 30 secs✨**
 - Im Bachelor of Information System who loves data
 - Taught my self SQL, Python and Power BI
@@ -40,7 +40,6 @@
         </p>
     </body>
 </html>
-![Screenshot](screenshot.png)
 <!---
 Exkimo99/Exkimo99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
